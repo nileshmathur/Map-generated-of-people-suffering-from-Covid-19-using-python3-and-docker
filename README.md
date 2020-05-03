@@ -1,0 +1,1 @@
+# Map-generated-of-people-suffering-from-Covid-19-using-python3-and-docker
