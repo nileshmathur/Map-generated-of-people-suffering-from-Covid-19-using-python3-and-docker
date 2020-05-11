@@ -1,0 +1,8 @@
+version: '3.3' 
+services: 
+  centos: 
+    container_name: server-p 
+    volumes: 
+      - 'storage1:/var/www/html' 
+      - '/run/media/root/RHEL-8-0-0-BaseOS-x86_64:/yum' 
+    network_mode: network1 
